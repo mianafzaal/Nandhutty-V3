@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923430436852"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
@@ -31,7 +31,7 @@
 ## `DEPLOY`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mianafzaal/Nandhutty-V3.git) 
 ----------
 
 
@@ -40,7 +40,7 @@
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/mianafzaal"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 
@@ -51,11 +51,11 @@
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/mianafzaal)[`Ajmal`](https://github.com/Ajmal-Achu)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/mianafzaal)[`Achu`](https://github.com/Ajmal-Achu)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
